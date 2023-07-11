@@ -1,0 +1,12 @@
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\bin\Debug\LoginProjeto1.exe.config
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\bin\Debug\LoginProjeto1.exe
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\bin\Debug\LoginProjeto1.pdb
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\obj\Debug\LoginProjeto1.csproj.AssemblyReference.cache
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\obj\Debug\LoginProjeto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\obj\Debug\LoginProjeto1.Sistema.resources
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\obj\Debug\LoginProjeto1.Properties.Resources.resources
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\obj\Debug\LoginProjeto1.csproj.GenerateResource.cache
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\obj\Debug\LoginProjeto1.csproj.CoreCompileInputs.cache
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\obj\Debug\LoginProjeto1.exe
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\obj\Debug\LoginProjeto1.pdb
+C:\Users\luan.caaziani\source\repos\LoginProjeto1\LoginProjeto1\obj\Debug\LoginProjeto1.CadastroDeUsuario.resources
